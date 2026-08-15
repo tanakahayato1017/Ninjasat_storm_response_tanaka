@@ -1,0 +1,14 @@
+event,quantity,value
+May,AE_max_nT,4098.0
+May,AL_min_nT,-3797.0
+May,integrated_AE_nT_h,59056.1
+May,hours_AE_gt_1000,19.983333333333334
+May,hours_AE_gt_500,39.95
+Oct,AE_max_nT,4274.0
+Oct,AL_min_nT,-3479.0
+Oct,integrated_AE_nT_h,40043.833333333336
+Oct,hours_AE_gt_1000,10.283333333333333
+Oct,hours_AE_gt_500,24.166666666666668
+ratio_oct_over_may,AE_max_nT,1.0429477794045876
+ratio_oct_over_may,integrated_AE_nT_h,0.6780643038286195
+ratio_oct_over_may,hours_AE_gt_1000,0.5145954962468724

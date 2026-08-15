@@ -1,0 +1,13 @@
+# Regenerated verification intermediates (not shipped).
+data/derived/intermediate/*.csv
+
+# Local-only source data pending release/licence approval.
+data/raw/GNSS_data/conbined_gps_*_ext.csv
+data/raw/xrism_gnss/*.csv
+data/raw/ninjasat/*.csv
+data/raw/xrism/*.csv
+data/raw/energy/*.csv
+data/external/tle/*.csv
+
+# Scratch/comparison workspace
+tmp/

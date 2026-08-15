@@ -1,0 +1,17 @@
+name: ninjasat-storm-response
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - scipy
+  - matplotlib
+  - astropy
+  - pytz
+  - tqdm
+  - pip
+  - pip:
+      - sgp4
+      - skyfield
+      - pyproj

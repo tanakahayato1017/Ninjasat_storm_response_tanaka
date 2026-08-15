@@ -1,0 +1,67 @@
+cff-version: 1.2.0
+message: >-
+  If you use this software or the data derived from it, please cite it as
+  below, and cite the accompanying paper.
+type: software
+title: >-
+  Analysis code and derived data for "Hour-scale response of low-Earth-orbit
+  satellite altitude to extreme geomagnetic storms revealed by the NinjaSat
+  CubeSat during the 2024 solar maximum"
+authors:
+  - given-names: Hayato
+    family-names: Tanaka
+    affiliation: Institute of Science Tokyo / ISAS, JAXA
+    email: tanaka.h.eff6@m.isct.ac.jp
+    orcid: ''
+  - given-names: Takao
+    family-names: Nakagawa
+    affiliation: Tokyo City University / ISAS, JAXA
+  - given-names: Satoshi
+    family-names: Nozawa
+    affiliation: Ibaraki University
+  - given-names: Toru
+    family-names: Tamagawa
+    affiliation: RIKEN
+  - given-names: Teruaki
+    family-names: Enoto
+    affiliation: Kyoto University
+  - given-names: Takao
+    family-names: Kitaguchi
+    affiliation: RIKEN
+  - given-names: Wataru
+    family-names: Iwakiri
+    affiliation: Chiba University
+  - given-names: Tatehiro
+    family-names: Mihara
+    affiliation: RIKEN
+  - given-names: Tomoshi
+    family-names: Takeda
+    affiliation: Hiroshima University
+  - given-names: Naoyuki
+    family-names: Ota
+    affiliation: RIKEN
+  - given-names: Amira
+    family-names: Aoyama
+    affiliation: RIKEN / Tokyo University of Science
+  - given-names: Satoko
+    family-names: Iwata
+    affiliation: RIKEN / Tokyo University of Science
+  - given-names: Takuya
+    family-names: Takahashi
+    affiliation: RIKEN / Tokyo University of Science
+  - given-names: Kaede
+    family-names: Yamasaki
+    affiliation: RIKEN / Tokyo University of Science
+repository-code: 'https://github.com/tanakahayato1017/Ninjasat_storm_response_tanaka'
+license: MIT
+preferred-citation:
+  type: article
+  title: >-
+    Hour-scale response of low-Earth-orbit satellite altitude to extreme
+    geomagnetic storms revealed by the NinjaSat CubeSat during the 2024 solar
+    maximum
+  authors:
+    - given-names: Hayato
+      family-names: Tanaka
+  journal: Scientific Reports
+  status: submitted
